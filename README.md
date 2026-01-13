@@ -33,7 +33,7 @@ pip install opencv-python mediapipe pyttsx3 numpy
 python finger_counter.py
 ```
 
-Press `q` to quit when you're done.
+Press <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> + <kbd>C</kbd> to quit when you're done.
 
 ## Requirements
 
@@ -59,7 +59,7 @@ Press `q` to quit when you're done.
 5. Watch the stats panel to see your gesture history
 
 **Controls:**
-- Press `q` to quit
+- Press <kbd>Ctrl</kbd> / <kbd>⌘ Cmd</kbd> + <kbd>C</kbd> to exit
 
 
 
