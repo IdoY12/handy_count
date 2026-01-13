@@ -13,7 +13,6 @@ A fun Python project that uses AI to count your fingers in real-time and speak t
 - 📊 Shows a simple stats panel with runtime and gesture history
 
 ## Quick Start
-
 ```bash
 # 1. Create virtual environment
 python3 -m venv venv
@@ -24,6 +23,10 @@ source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
 
 # 3. Install dependencies
+# Option A: Install from requirements.txt
+pip install -r requirements.txt
+
+# Option B: Install manually
 pip install opencv-python mediapipe pyttsx3 numpy
 
 # 4. Run it!
