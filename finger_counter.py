@@ -1,15 +1,3 @@
-"""
-Professional Real-Time Finger Counting Application
-with Voice Feedback and Advanced Gesture Recognition
-
-Features:
-- Real-time hand detection and finger counting (0-5)
-- Text-to-speech voice announcements
-- Visual statistics dashboard
-- Gesture recognition (peace sign, fist, open palm, etc.)
-- Support for both hands with proper orientation detection
-"""
-
 import cv2
 import mediapipe as mp
 import pyttsx3
